@@ -1,5 +1,4 @@
-# Amazon-Clone
-# 🛒 Amazon Clone (HTML & CSS)
+#🛒 Amazon Clone (HTML & CSS)
 
 This is a basic **Amazon homepage clone** built using **HTML and CSS**. The goal of this project is to practice front-end web development skills by recreating the layout and design of Amazon’s landing page.
 
