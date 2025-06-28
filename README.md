@@ -15,13 +15,3 @@ This is a basic **Amazon homepage clone** built using **HTML and CSS**. The goal
 
 - HTML5  
 - CSS3 (Flexbox, Grid)
-
-## 📷 Screenshots
-
-![Screenshot](screenshot.png) <!-- Optional: Add a screenshot image of your project -->
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/amazon-clone-html-css.git
